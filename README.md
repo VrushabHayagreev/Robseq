@@ -17,7 +17,7 @@ You can install the development version from
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("prestevez/toypackage")
+devtools::install_github("VrushabHayagreev/Robseq")
 ```
 
 ## Example
@@ -25,7 +25,7 @@ devtools::install_github("prestevez/toypackage")
 This is a basic example of the functions in the package.
 
 ``` r
-library(toypackage)
+library(Robseq)
 ## basic example code
 
 hello("Alice")
