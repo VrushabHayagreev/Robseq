@@ -1,0 +1,22 @@
+Package: toypackage
+Title: A Toy Package
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Patricio",
+           family = "Estévez-Soto",
+           role = c("aut", "cre"),
+           email = "patricio.estevez@ucl.ac.uk",
+           comment = c(ORCID = "0000-0001-7513-6904"))
+Description: This package was created as part of a tutorial on how to create packages.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+Imports: 
+    stringr
+URL: https://github.com/prestevez/toypackage
+BugReports: https://github.com/prestevez/toypackage/issues
