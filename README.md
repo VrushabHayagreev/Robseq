@@ -1,14 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# toypackage
+# Robseq
 
 <!-- badges: start -->
 
 <!-- badges: end -->
 
-The goal of toypackage is to provide an example of how to build a
-bare-bones R package.
+Template for Robseq
 
 ## Installation
 
